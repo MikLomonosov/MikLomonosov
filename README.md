@@ -11,4 +11,7 @@
   </a>
 </p>
 
+<h3>
+  <img src="https://www.codewars.com/users/%20ML/badges/micro"/>
+</h3>
 
