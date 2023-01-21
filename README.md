@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="size:100px;">
   Victor Davaev
 </p>
 <br>
