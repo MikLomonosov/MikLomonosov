@@ -1,5 +1,6 @@
 <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/ahhhhh.png" size="50%"/>
-
+<br>
+<br>
 <p>
-  <h3 style="color:red" align="center">Welcome to my profile</h3>
+  <h2 style="color:red" align="center">Welcome to my profile</h2>
 </p>
