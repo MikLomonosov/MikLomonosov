@@ -1,3 +1,1 @@
-
-
-<h1 align="center" font="Times New Roman">Victor Davaev</h1>
+<h1 align="center">Victor Davaev</h1>
