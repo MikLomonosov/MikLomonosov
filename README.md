@@ -1,11 +1,9 @@
-<h1 align="center">
-  <style>
-    h1
-    {
-      font:Libre Baskerville;
-      color:#0B9F80FF;
-    }
-    
-  </style>
-  Victor Davaev
-</h1>
+<style>
+  h1 
+  {
+    color:#0B9F80FF;
+  font:Libre Baskerville;
+  }
+</style>
+
+<h1 align="center">Victor Davaev</h1>
