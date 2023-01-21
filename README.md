@@ -1,5 +1,5 @@
 <p align="center" style="size:100px;">
-  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/ahhhhh.png" height="50%" width="50%"/>
+  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/ahhhhh.png" height="40%" width="40%"/>
 </p>
 <br>
 <p align="center">
