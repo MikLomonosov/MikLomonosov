@@ -12,6 +12,6 @@
 </p>
 
 <h3>
-  <img src="https://www.codewars.com/users/%20ML/badges/micro"/>
+  <img href="https://www.codewars.com/users/%20ML" src="https://www.codewars.com/users/%20ML/badges/micro"/>
 </h3>
 
