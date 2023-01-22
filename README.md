@@ -11,7 +11,25 @@
   </a>
 </p>
 
-<h3>
-  <img href="https://www.codewars.com/users/%20ML" src="https://www.codewars.com/users/%20ML/badges/micro"/>
-</h3>
+<h2>
+  A little more about me:
+</h2>
+<p>
+  Just a curios person, that known about programming and loved it.<br>
+  I am having a big interest in developing programmes, computer science. <br>
+  And in the future I wanna know more about Artificial intelligence.<br>
+  I am currently working hard to grow up my professional experience.
+</p>
+
+<h2>
+  Language and tools:
+</h2>
+<p>
+  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/c-sharp-logo.png" height="4%" width="4%" alt="c#"/>
+  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/html-logo.png" height="4%" width="4%" alt="html"/>
+  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/css3-logo.png" height="4%" width="4%" alt="css"/>
+</p>
+
+<img href="https://www.codewars.com/users/%20ML" src="https://www.codewars.com/users/%20ML/badges/micro"/>
+
 
