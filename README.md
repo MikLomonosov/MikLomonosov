@@ -28,8 +28,24 @@
   <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/c-sharp-logo.png" height="4%" width="4%" alt="c#"/>
   <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/html-logo.png" height="4%" width="4%" alt="html"/>
   <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/css3-logo.png" height="4%" width="4%" alt="css"/>
+  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/sql-logo.png" height="15%" width="4%" alt="css"/>
+  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/git-logo.png" height="4%" width="4%" alt="css"/>
+  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/visual-studio-logo.png" height="4%" width="4%" alt="css"/>
+  <img src="https://github.com/MikLomonosov/MikLomonosov/blob/main/Content/my-sql-logo.png" height="4%" width="4%" alt="css"/>
 </p>
-
-<img href="https://www.codewars.com/users/%20ML" src="https://www.codewars.com/users/%20ML/badges/micro"/>
+<h2>
+  You can find me:
+</h2>
+<p> 
+  <a href="https://www.codewars.com/users/%20ML"><img src="https://www.codewars.com/users/%20ML/badges/micro"/></a>
+  <a href="mailto:davaewik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="7%" width="7%"/>
+  </a>
+  <br>
+  <a href="https://steamcommunity.com/profiles/76561198169226749/">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" height="7%" width="9%"/>
+  </a>
+  
+</p>
 
 
